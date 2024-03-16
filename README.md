@@ -8,3 +8,6 @@ We design as a technology solution for future web3 developments
 Web Labs Community Devloper
 Web: https://idbit.org
 Email: idt@idbit.org
+
+For more complete information, you can study our project documentation
+https://docs.idbit.org/
